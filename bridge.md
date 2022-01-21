@@ -1,0 +1,8 @@
+# Ponte
+
+Yup crede che il futuro sia multi-piattaforma e multi-chain. Ethereum possiede la liquidità e gli ingressi fiat di cui il protocollo Yup necessita, ma non la scalabilità. EOS è veloce, economico, e facile da utilizzare per gli sviluppatori, ma non possiede gli effetti di un network finanziario che permettano una monetizzazione senza interruzioni. **Per questi motivi, il protocollo Yup ed il token YUP esisteranno sia su Ethereum che su EOS.** La liquidità esisterà principalmente su Ethereum; i fornitori di liquidità guadagnano rendimento in YUP con i loro token LP YUPETH Uniswap, migrandoli e mettendoli in stake sul contratto intelligente di EOS. Su EOS, l'Influenza è misurata e i token YUP distribuiti.
+
+Insieme, le due blockchain forniscono l'infrastruttura necessaria a far funzionare il protocollo Yup su larga scala. **Questo approccio è il primo nel suo genere. Dobbiamo ancora vedere il lancio di un token che è dipende da due strati pubblici separati per diversi aspetti del suo protocollo.** Il protocollo Yup sfrutta un'implementazione della [DAPP Network ETH-EOS Ponte](https://github.com/liquidapps-io/docs/blob/e1099f3b42703eaa7863acfc0247832f96bf15ab/docs/developers/token-bridge.md). Questa è la prima implementazione mainnet del ponte e sarà utilizzata per collegare i token YUP e i corrispondenti token LP attraverso le blockchain. Il ponte in questione è eseguito da molteplici nodi di rispettabili organizzazioni \(ulteriori informazioni in arrivo). In questo [articolo di CoinTelegraph](https://cointelegraph.com/news/how-we-got-ivy-league-students-to-use-blockchain-tech) parliamo in breve delle nostre opinioni/sentimenti nei confronti del tribalismo o lealtà verso uno strato specifico.
+
+Ulteriori informazioni in arrivo.
+
