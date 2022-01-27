@@ -1,22 +1,15 @@
----
-description: Welcome to the Yup docs!
----
+# Yup Docs Italian Version
+This repository is the result of the Italian translation of the official [Yup Docs](https://github.com/Yup-io/yup_docs). This task was available as a DAO Communitu quest on [ClickUp](https://app.clickup.com/).
 
-# Cominciamo
+# Yup
 
-## Panoramica
+## Overview
+Yup is a network that rewards you for good opinions. By doing so, it creates a social consensus layer for the internet, accurately representing the agreed-upon social value of anything, from random Tweets to your history professor. It does this by interacting with the Yup Protocol, which is a decentralized semi-autonomous social consensus protocol that determines the rewards and social value of all content based on users' interactions with it. \([Scopri di più](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/protocol.md)\)
 
-Yup è un network che ti ricompensa per opinioni di qualità. Facendo ciò, crea uno strato di consenso sociale per l'Internet, rappresentando accuratamente il valore sociale di **qualsiasi cosa**, da tweet qualunque al tuo professore di storia. Fa questo tramite l'interazione con il protocollo Yup, un protocollo di consenso sociale semi-autonomo decentralizzato che determina le ricompense e il valore sociale di qualsiasi contenuto, in base alle interazioni degli utenti. \( [Scopri di più](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/protocol.md) \)
+The best way to use Yup is through the Yup Web Extension, a browser plug-in that allows you to vote on any site or piece of content across the web. It also stores your money and displays the social value of everything in a color coded scheme. \([Scopri di più](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/ext.md)\)
 
-Il modo migliore per utilizzare Yup è tramite l'estensione del browser, un plug-in che ti permette di valutare su qualsiasi sito e qualsiasi contenuto sul web. Inoltre, memorizza i tuoi guadagni e mostra il valore sociale di qualunque cosa con uno schema basato sui colori. \( [Scopri di più](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/ext.md) \)
+## Simple Start
+Start by signing in with Twitter on the [Yup site](https://yup.io)
 
-## Primi passi
-
-Comincia registrandoti con Twitter sul [sito di Yup](https://yup.io)
-
-Congratulazioni! 🎉 Ora stai guadagnando denaro e influenza in base alla tua attività su Twitter.
-
-{% page-ref page="products/extension/" %}
-
-{% page-ref page="protocol/yup-protocol.md" %}
+Congratulations! 🎉 You’re now earning money and clout based on your Twitter activity.
 
