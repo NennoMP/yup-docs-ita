@@ -1,5 +1,5 @@
 # Yup Docs Italian Version
-This repository is the result of the Italian translation of the official [Yup Docs](https://github.com/Yup-io/yup_docs). This task was available as a DAO Communitu quest on [ClickUp](https://app.clickup.com/).
+This repository is the result of the Italian translation of the official [Yup Docs](https://github.com/Yup-io/yup_docs). This task was available as a DAO Community quest on [ClickUp](https://app.clickup.com/).
 
 # Yup
 
